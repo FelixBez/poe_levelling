@@ -7,3 +7,4 @@ I create this projet to test NodeJS server and create a little tool to follow po
 - Improve css
 - Register progression (in a simple file maybe?)
 - Separate text data in another file than client.js
+- Dockerize the project
