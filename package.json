@@ -1,0 +1,15 @@
+{
+  "name": "poelevelling",
+  "version": "1.0.0",
+  "description": "Poe levelling tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
